@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bee351b2.css",
+    "main.js": "/static/js/main.6acf00e3.js",
+    "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/boxicons.woff2": "/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/ConstructionSector.jpg": "/static/media/ConstructionSector.4ef677976fd2eed76047.jpg",
+    "static/media/HomeServicesSector.jpg": "/static/media/HomeServicesSector.589185b1a3fdce76d0f5.jpg",
+    "static/media/HealthCareSector.jpg": "/static/media/HealthCareSector.d218d05eb1eafa7b955e.jpg",
+    "static/media/PetCareSector.jpg": "/static/media/PetCareSector.b83d1e620c25a2c179d0.jpg",
+    "index.html": "/index.html",
+    "main.bee351b2.css.map": "/static/css/main.bee351b2.css.map",
+    "main.6acf00e3.js.map": "/static/js/main.6acf00e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bee351b2.css",
+    "static/js/main.6acf00e3.js"
+  ]
+}
